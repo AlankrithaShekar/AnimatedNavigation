@@ -1,2 +1,2 @@
 # AnimatedNavigation
-<a href="https://alankrithashekar.github.io/background/">Animated Navigation</a>
+<a href="https://alankrithashekar.github.io/AnimatedNavigation/">Animated Navigation</a>
